@@ -1,0 +1,33 @@
+.home {
+    background: url(sby3.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover auto;
+    opacity: 0.9;
+    padding-top: 12.4rem;
+    padding-bottom: 13.5rem;
+    color:whitesmoke ;
+}
+
+.About {
+    background-color: #457b9d;
+    color:white;
+    padding-top: 6rem;
+}
+
+.Content {
+    background-color: #F3F4F5;
+    padding-top: 6rem;
+}
+
+.More {
+    background-color: #457b9d;
+    color:white;
+    padding-top: 6rem;
+}
+
+footer {
+    background-color: #1d3557;
+    color: white;
+}
