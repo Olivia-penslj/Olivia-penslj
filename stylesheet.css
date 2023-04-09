@@ -37,8 +37,8 @@ body {
 .moon {
     background-image: linear-gradient(30deg, #13223f, #0e1a30);
     margin-top: 15%;
-    width: 256px;
-    height: 256px;
+    width: 240px;
+    height: 240px;
     border-radius: 50%;
     position: relative;
 }
